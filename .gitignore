@@ -11,3 +11,9 @@
 # Keep repository metadata/docs
 !.gitignore
 !README.md
+
+# Keep release metadata/config tables
+!release_assets/
+!release_assets/**/
+!release_assets/**/*.csv
+!release_assets/**/*.yaml

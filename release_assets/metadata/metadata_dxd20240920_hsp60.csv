@@ -1,0 +1,7 @@
+tomo_name,tomo,lamella_file,path_to_motl_clean_ribo,hsp60_mask
+24092001,/virtual_data/test_data/dxd20240920_hsp60/tomo/24092001_9.62Apx.mrc,,,/virtual_data/train_data/training/compare/24092001_hsp60.mrc
+24092002,/virtual_data/test_data/dxd20240920_hsp60/tomo/24092002_9.62Apx.mrc,,,/virtual_data/train_data/training/compare/24092002_hsp60.mrc
+24092018,/virtual_data/test_data/dxd20240920_hsp60/tomo/24092018_9.62Apx.mrc,,,/virtual_data/train_data/training/compare/24092018_hsp60.mrc
+24092024,/virtual_data/test_data/dxd20240920_hsp60/tomo/24092024_9.62Apx.mrc,,,/virtual_data/train_data/training/compare/24092024_hsp60.mrc
+24092028,/virtual_data/test_data/dxd20240920_hsp60/tomo/24092028_9.62Apx.mrc,,,/virtual_data/train_data/training/compare/24092028_hsp60.mrc
+24092031,/virtual_data/test_data/dxd20240920_hsp60/tomo/24092031_9.62Apx.mrc,,,/virtual_data/train_data/training/compare/24092031_hsp60.mrc

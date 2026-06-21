@@ -1,0 +1,7 @@
+paths:
+  data_root: /virtual_data
+  repo_root: .
+  metadata_dir: ./release_assets/metadata
+notes:
+  - This release uses virtual paths only.
+  - No .mrc data files are bundled in this repository.

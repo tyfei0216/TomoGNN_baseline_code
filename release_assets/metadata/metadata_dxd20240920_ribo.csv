@@ -1,0 +1,15 @@
+tomo_name,tomo,lamella_file,ribo_mask,path_to_motl_clean_ribo,ribosome_mask
+24092002,/virtual_data/test_data/dxd20240920/tomo2/24092002_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092002.mrc,,/virtual_data/train_data/training/compare/24092002_ribo.mrc
+24092009,/virtual_data/test_data/dxd20240920/tomo2/24092009_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092009.mrc,,/virtual_data/train_data/training/compare/24092009_ribo.mrc
+24092013,/virtual_data/test_data/dxd20240920/tomo2/24092013_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092013.mrc,,/virtual_data/train_data/training/compare/24092013_ribo.mrc
+24092014,/virtual_data/test_data/dxd20240920/tomo2/24092014_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092014.mrc,,/virtual_data/train_data/training/compare/24092014_ribo.mrc
+24092016,/virtual_data/test_data/dxd20240920/tomo2/24092016_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092016.mrc,,/virtual_data/train_data/training/compare/24092016_ribo.mrc
+24092017,/virtual_data/test_data/dxd20240920/tomo2/24092017_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092017.mrc,,/virtual_data/train_data/training/compare/24092017_ribo.mrc
+24092020,/virtual_data/test_data/dxd20240920/tomo2/24092020_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092020.mrc,,/virtual_data/train_data/training/compare/24092020_ribo.mrc
+24092023,/virtual_data/test_data/dxd20240920/tomo2/24092023_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092023.mrc,,/virtual_data/train_data/training/compare/24092023_ribo.mrc
+24092024,/virtual_data/test_data/dxd20240920/tomo2/24092024_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092024.mrc,,/virtual_data/train_data/training/compare/24092024_ribo.mrc
+24092025,/virtual_data/test_data/dxd20240920/tomo2/24092025_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092025.mrc,,/virtual_data/train_data/training/compare/24092025_ribo.mrc
+24092026,/virtual_data/test_data/dxd20240920/tomo2/24092026_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092026.mrc,,/virtual_data/train_data/training/compare/24092026_ribo.mrc
+24092029,/virtual_data/test_data/dxd20240920/tomo2/24092029_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092029.mrc,,/virtual_data/train_data/training/compare/24092029_ribo.mrc
+24092030,/virtual_data/test_data/dxd20240920/tomo2/24092030_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092030.mrc,,/virtual_data/train_data/training/compare/24092030_ribo.mrc
+24092031,/virtual_data/test_data/dxd20240920/tomo2/24092031_9.62Apx.mrc,,/virtual_data/test_data/dxd20240920/ribo/24092031.mrc,,/virtual_data/train_data/training/compare/24092031_ribo.mrc

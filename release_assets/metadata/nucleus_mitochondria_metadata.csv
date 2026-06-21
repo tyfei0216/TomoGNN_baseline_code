@@ -1,0 +1,7 @@
+data,labels,flip_y,id
+/virtual_data/train_data/sull20240716_sllt0051/tomo/sllt0051_9.62Apx.mrc,/virtual_data/train_data/training/compare/sllt0051_2d.mrc,0,sllt0051
+/virtual_data/train_data/20230328_TS_023/tomo/TS_023.mrc_10.30Apx.mrc,/virtual_data/train_data/training/compare/TS_023_2d.mrc,0,TS_023
+/virtual_data/train_data/20230328_TS_005/tomo/TS_005.mrc_10.30Apx.mrc,/virtual_data/train_data/training/compare/TS_005_2d.mrc,0,TS_005
+/virtual_data/train_data/sull20240716_sllt0081/tomo/sllt0081_9.62Apx.mrc,/virtual_data/train_data/training/compare/sllt0081_2d.mrc,0,sllt0081
+/virtual_data/train_data/sull20240716_sllt0039/tomo/sllt0039_9.62Apx.mrc,/virtual_data/train_data/training/compare/sllt0039_2d.mrc,0,sllt0039
+/virtual_data/train_data/TS_031/tomo/TS_031.mrc_10.30Apx.mrc,/virtual_data/train_data/training/compare/TS_031_2d.mrc,0,TS_031
