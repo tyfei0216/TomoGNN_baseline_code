@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Keep directories so Git can traverse into them
+!*/
+
+# Track only notebook and Python source files
+!*.ipynb
+!*.py
+
+# Keep repository metadata/docs
+!.gitignore
+!README.md
